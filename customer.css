@@ -1,0 +1,31 @@
+.navbar-nav{
+  font-family:'Oxygen',sans-serif;
+  text-decoration:#ffffff;
+  font-weight: bold;
+}
+#nav-bar
+{
+	background-color:transparent;
+	position:static;
+	top:0;
+	z-index:10;
+	float: right;
+	
+}
+.nav-link:hover {
+	background-image: url('');
+}
+.nav-link {
+	font-family:'Oxygen',sans-serif;
+}
+a{
+	color:white;
+}
+#footer{
+	font-family:'Oxygen',sans-serif;
+	background-color:teal;
+    color:#fff;
+    padding: 5.5% 25%;
+    text-align: center;
+}
+
